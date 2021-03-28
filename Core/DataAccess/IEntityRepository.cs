@@ -1,10 +1,10 @@
-﻿using Entities.Abstract;
+﻿using Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAccess.Abstract
+namespace Core.DataAccess
 {
     //generic   constraint(generic kısıt) bu kısıt ile sadece db tablo claslarını vermesini sağlıyoruz
     //class:referans tip 
